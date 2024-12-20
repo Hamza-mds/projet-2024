@@ -26,4 +26,4 @@ Ce projet contient plusieurs fichiers couvrant des analyses, des exercices et de
 
 
 ### 6. **Fonction TrierEtRechercher.docx**
-   - Explication et implémentation de plusieurs algorithmes de tri et de recherche, y compris la recherche binaire (itérative et récursive) et le tri par sélection. Contient des exemples d'utilisation. [Télécharger le fichier](Fonction%20TrierEtRechercher(1).docx)
+   - Explication et implémentation de plusieurs algorithmes de tri et de recherche, y compris la recherche binaire (itérative et récursive) et le tri par sélection. Contient des exemples d'utilisation. [Télécharger le fichier](Fonction%20TrierEtRechercher%20(1).docx)
